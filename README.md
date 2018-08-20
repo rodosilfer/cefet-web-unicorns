@@ -19,9 +19,7 @@ igual ao que o _web designer_ vislumbrou. Estilize a margem dos parágrafos da m
 
 Veja o _layout_ no arquivo `unicorns-comp.png` e as _specs_ no arquivo `unicorns-specs.png`.
 
-O código HTML está praticamente
-pronto e será necessário alterá-lo apenas para fazer as quebras de linha
-da letra da música.
+O código HTML está praticamente pronto e será necessário alterá-lo apenas para fazer as quebras de linha da letra da música.
 
 
 
@@ -45,7 +43,5 @@ da letra da música.
     - Quando a árvore de elementos HTML abrir, vá selecionando os elementos
       próximos até ver quem está provocando esse espaço em branco
       - Dica: é a margem padrão de alguém
-- Como faço a quebra de linha?
-  - Usando a tag `<br>`, como [no slide][br]
 - Minha `<div id="hoje">` parece estar mais larga que o normal. Por quê?
   - Isso é por causa do _Box Model_! 
