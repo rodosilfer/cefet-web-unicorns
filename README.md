@@ -32,3 +32,22 @@ do título "A Música do Unicórnio", usando o arquivo
 
 1. Faça sua página ser **_pixel-perfect_** com os _specs_, ou seja, a página tem que seguir exatamente o que foi proposto
 1. Decore a letra da música até o final da aula e vamos todos cantar \o/ ;)
+
+## FAQ
+
+- Que **fonte é essa "Kaushan Script"**? Acho que não funcionou.
+  - Ela é uma fonte que normalmente não está instalada nos computadores. Nesse caso, você pode usar a fonte que está **hospedada no Google Fonts** (procure por Kaushan Script lá)
+- **Espacinho branco** ao redor da página. Como tirar?
+  - Por padrão, o elemento `<body>` possui uma margem de `8px` nas quatro
+    direções. Esse espaço é devido a isso.
+- **Espação em branco no topo** da página. O que está provocando ele?
+  - Investigue, usando **as ferramentas do desenvolvedor**, aquele espaço
+    clicando com botão direito no espaço em branco e, então, escolhendo
+    a opção "Inspecionar"
+    - Quando a árvore de elementos HTML abrir, vá selecionando os elementos
+      próximos até ver quem está provocando esse espaço em branco
+      - Dica: é a margem padrão de alguém
+- Como faço a quebra de linha?
+  - Usando a tag `<br>`, como [no slide][br]
+- Minha `<div id="hoje">` parece estar mais larga que o normal. Por quê?
+  - Isso é por causa do _Box Model_! 
