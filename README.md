@@ -23,9 +23,7 @@ O código HTML está praticamente
 pronto e será necessário alterá-lo apenas para fazer as quebras de linha
 da letra da música.
 
-Além disso, coloque também um elemento audio, logo abaixo
-do título "A Música do Unicórnio", usando o arquivo
-`audio/brobdingnagianbards_theunicornsong.mp3`.
+
 
 
 ## Desafios
