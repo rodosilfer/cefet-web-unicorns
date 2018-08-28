@@ -1,0 +1,79 @@
+body{
+    margin: 0px;
+}
+
+#cabecalho {
+    background-color:#6175f0;
+    color:white;
+    padding-top:20px;
+    padding-bottom:13px;
+    padding-left: 34px;
+    
+  }
+   h1{
+    font-size: 36px;
+    font-family: 'Kaushan Script';
+    
+  }
+  h2{
+    font-size: 24px;
+    font-family:'Times New Roman', Times, serif;
+    
+  }
+    p{
+        font-size: 14px;
+        color:black;
+        font-family: Arial, Helvetica, sans-serif;
+       
+    }
+  
+
+  img{
+    width: 310px;
+    float: left;
+    padding-right: 13px;
+     
+  }
+
+  #hoje{
+      float: right;
+      width: 405px;
+      box-sizing: border-box;
+      background-color:#f8cef7; 
+      margin-right: 25px;
+      border: 1px solid #ff56fb ;
+      text-align: center;
+       padding-top:20px;
+    padding-bottom:30px;
+    padding-left: 35px;
+    padding-right: 35px;
+     clear: both;  
+  }
+
+  .imgUni{
+      width: 112px;
+      height: 112px;
+      padding-left: 120px;
+     
+  }
+
+  .tira{
+     clear: both;
+     display: block;
+   
+}
+
+  .destacado{
+
+    background-color: #c4caf3;
+    color:#004a79;
+  }
+
+  #musica{
+    margin-left: 12px;
+  }
+
+  .EspacoMusica{
+    padding-left:34px;
+
+  }
